@@ -27,7 +27,7 @@ public class CanvasDownloadAssistant
             {
                //set a path for folder to hold student's files (uses the LastnameFirstname part
                //of Canvas's naming convention
-               studentFolder = new File(labFolder + "/" + fileName.substring(0,fileName.indexOf("_")));
+               studentFolder = new File(labFolder + "\\" + fileName.substring(0,fileName.indexOf("_")));
             }
                         
             //see if the folder has already been created
