@@ -19,13 +19,8 @@ The objective of this project was to take the result of extracting the raw files
     java CanvasDownloadAssistant <RELATIVE PATH>
 Relative Path refers to the relative path from the directory where the program is run to the folder holding the Canvas downloads.
 
-## Contributors
-
-Steven Dols -- [Contact Me!][email]
-
 ## License
 
 The software included in this repository is licensed under the terms of the MIT License, which can be read in full [here](LICENSE).
 
 [loma]: https://www.pointloma.edu/schools-departments-colleges/department-mathematical-information-computer-sciences
-[email]: mailto:stevendols5798@pointloma.edu
